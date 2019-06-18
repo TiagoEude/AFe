@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1559790953 source:c:\users\notebook\documents\mega\computação\3º periodo\linguagens formais e altomatos\p3\lfa_afd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1559865614 source:c:\users\notebook\documents\mega\computação\3º periodo\linguagens formais e altomatos\p3\lfa_afe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
